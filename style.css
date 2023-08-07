@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #83a6b4fb;
+    justify-content: space-around;
+    font-size: 24px;
+}
+.cabeçalho-lista-item{
+ display: inline-block;
+    margin: 0 28px;
+    
+}
+.cabeçalho-lista-local{
+    display: inline-block;
+    margin: 0 28px;
+    display: flex;
+}
